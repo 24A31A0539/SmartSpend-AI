@@ -1,0 +1,29 @@
+[
+  {
+    "id": "g-macbook",
+    "name": "MacBook Pro M3",
+    "target_amount": 150000.0,
+    "current_amount": 95000.0,
+    "target_date": "August 2027",
+    "category": "Electronics",
+    "status": "In Progress"
+  },
+  {
+    "id": "g-emergency",
+    "name": "Emergency Safety Reserve",
+    "target_amount": 250000.0,
+    "current_amount": 160000.0,
+    "target_date": "December 2027",
+    "category": "Savings",
+    "status": "In Progress"
+  },
+  {
+    "id": "g-vacation",
+    "name": "Swiss Alps Vacation",
+    "target_amount": 300000.0,
+    "current_amount": 110000.0,
+    "target_date": "May 2028",
+    "category": "Travel",
+    "status": "In Progress"
+  }
+]

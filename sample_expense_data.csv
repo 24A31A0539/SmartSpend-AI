@@ -1,0 +1,150 @@
+Date,Category,Amount,Payment Method,Description
+2026-09-26,Dining,500.0,UPI,
+2026-09-24,Dining,800.0,Credit Card,Dessert & Bakery
+2026-09-23,Other,1400.0,UPI,Pharmacy & Health Supplies
+2026-09-22,Shopping,1251.0,Credit Card,Myntra Lifestyle essentials
+2026-09-21,Transport,1150.0,UPI,Fuel refill IndianOil
+2026-09-20,Dining,1477.0,UPI,Zomato Orders & Coffee
+2026-09-19,Other,2100.0,Debit Card,Organic Farmers Market
+2026-09-18,Bills,800.0,UPI,Water & Gas Utility Bill
+2026-09-16,Shopping,2850.0,Credit Card,Zara - Formal Shirt
+2026-09-15,Dining,1650.0,Credit Card,Weekend Cafe & Brunch
+2026-09-14,Transport,850.0,UPI,Uber Rides to Tech Park
+2026-09-12,Bills,1200.0,Bank Transfer,Airtel Broadband Internet
+2026-09-10,Shopping,1299.0,Credit Card,Amazon
+2026-09-08,Dining,1850.0,Credit Card,Team Lunch at Olive Bistro
+2026-09-06,Other,2450.0,Credit Card,Supermarket Groceries
+2026-09-05,Transport,1200.0,Debit Card,Metro Monthly Pass
+2026-09-03,Dining,423.0,UPI,Swiggy
+2026-09-02,Bills,2100.0,Bank Transfer,Electricity Bill
+2026-08-27,Other,3338.706840537387,Debit Card,Pharmacy & Daily Needs
+2026-08-25,Bills,505.4840326189534,Debit Card,Netflix & Media Subscription
+2026-08-23,Shopping,4173.373420731201,Credit Card,Apparel & Lifestyle
+2026-08-20,Transport,3338.706840537387,UPI,Fuel & Auto Taxi
+2026-08-18,Dining,6009.668260991083,Credit Card,Family Dinner Restaurant
+2026-08-15,Bills,2127.287512023652,Bank Transfer,Electricity & Utility Bill
+2026-08-12,Bills,1215.5928640135153,Bank Transfer,Airtel Broadband Internet
+2026-08-10,Transport,3338.706840537387,Debit Card,Metro & Bus Commute
+2026-08-08,Shopping,4173.373420731201,Credit Card,Amazon Online Order
+2026-08-07,Other,6562.38,Credit Card,Supermarket Groceries
+2026-08-05,Dining,4006.442130680545,UPI,Swiggy Food Delivery
+2026-08-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2026-07-27,Other,3248.3694097239068,Debit Card,Pharmacy & Daily Needs
+2026-07-25,Bills,504.8356293570581,Debit Card,Netflix & Media Subscription
+2026-07-23,Shopping,4060.466820628124,Credit Card,Apparel & Lifestyle
+2026-07-20,Transport,3248.3694097239068,UPI,Fuel & Auto Taxi
+2026-07-18,Dining,5847.068984281624,Credit Card,Family Dinner Restaurant
+2026-07-15,Bills,2124.558760821287,Bank Transfer,Electricity & Utility Bill
+2026-07-12,Bills,1214.0335776121638,Bank Transfer,Airtel Broadband Internet
+2026-07-10,Transport,3248.3694097239068,Debit Card,Metro & Bus Commute
+2026-07-08,Shopping,4060.466820628124,Credit Card,Amazon Online Order
+2026-07-07,Other,5736.08,Credit Card,Supermarket Groceries
+2026-07-05,Dining,3898.049361836576,UPI,Swiggy Food Delivery
+2026-07-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2026-06-27,Other,3158.273241650777,Debit Card,Pharmacy & Daily Needs
+2026-06-25,Bills,504.1872260951627,Debit Card,Netflix & Media Subscription
+2026-06-23,Shopping,3947.8365000872577,Credit Card,Apparel & Lifestyle
+2026-06-20,Transport,3158.273241650777,UPI,Fuel & Auto Taxi
+2026-06-18,Dining,5684.887793390428,Credit Card,Family Dinner Restaurant
+2026-06-15,Bills,2121.8300096189214,Bank Transfer,Electricity & Utility Bill
+2026-06-12,Bills,1212.4742912108122,Bank Transfer,Airtel Broadband Internet
+2026-06-10,Transport,3158.273241650777,Debit Card,Metro & Bus Commute
+2026-06-08,Shopping,3947.8365000872577,Credit Card,Amazon Online Order
+2026-06-07,Other,4737.3997585237385,Credit Card,Supermarket Groceries
+2026-06-05,Dining,3789.921827609476,UPI,Swiggy Food Delivery
+2026-06-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2026-05-27,Other,3068.38798547856,Debit Card,Pharmacy & Daily Needs
+2026-05-25,Bills,503.5388228332674,Debit Card,Netflix & Media Subscription
+2026-05-23,Shopping,3835.4824591086062,Credit Card,Apparel & Lifestyle
+2026-05-20,Transport,3068.38798547856,UPI,Fuel & Auto Taxi
+2026-05-18,Dining,5523.084246519685,Credit Card,Family Dinner Restaurant
+2026-05-15,Bills,2119.1012584165564,Bank Transfer,Electricity & Utility Bill
+2026-05-12,Bills,1210.9150048094607,Bank Transfer,Airtel Broadband Internet
+2026-05-10,Transport,3068.38798547856,Debit Card,Metro & Bus Commute
+2026-05-08,Shopping,3835.4824591086062,Credit Card,Amazon Online Order
+2026-05-07,Other,4602.576932738653,Credit Card,Supermarket Groceries
+2026-05-05,Dining,3682.059527999248,UPI,Swiggy Food Delivery
+2026-05-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2026-04-27,Other,2978.7237581537333,Debit Card,Pharmacy & Daily Needs
+2026-04-25,Bills,502.890419571372,Debit Card,Netflix & Media Subscription
+2026-04-23,Shopping,3723.394619727847,Credit Card,Apparel & Lifestyle
+2026-04-20,Transport,2978.7237581537333,UPI,Fuel & Auto Taxi
+2026-04-18,Dining,5361.688655526672,Credit Card,Family Dinner Restaurant
+2026-04-15,Bills,2116.372507214191,Bank Transfer,Electricity & Utility Bill
+2026-04-12,Bills,1209.3557184081092,Bank Transfer,Airtel Broadband Internet
+2026-04-10,Transport,2978.7237581537333,Debit Card,Metro & Bus Commute
+2026-04-08,Shopping,3723.394619727847,Credit Card,Amazon Online Order
+2026-04-07,Other,4468.07555926628,Credit Card,Supermarket Groceries
+2026-04-05,Dining,3574.462463005888,UPI,Swiggy Food Delivery
+2026-04-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2026-03-27,Other,2889.2704947060324,Debit Card,Pharmacy & Daily Needs
+2026-03-25,Bills,502.2420163094768,Debit Card,Netflix & Media Subscription
+2026-03-23,Shopping,3611.593150867674,Credit Card,Apparel & Lifestyle
+2026-03-20,Transport,2889.2704947060324,UPI,Fuel & Auto Taxi
+2026-03-18,Dining,5200.690916458965,Credit Card,Family Dinner Restaurant
+2026-03-15,Bills,2113.643756011826,Bank Transfer,Electricity & Utility Bill
+2026-03-12,Bills,1207.7964320067576,Bank Transfer,Airtel Broadband Internet
+2026-03-10,Transport,2889.2704947060324,Debit Card,Metro & Bus Commute
+2026-03-08,Shopping,3611.593150867674,Credit Card,Amazon Online Order
+2026-03-07,Other,4333.915807029315,Credit Card,Supermarket Groceries
+2026-03-05,Dining,3467.130632629399,UPI,Swiggy Food Delivery
+2026-03-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2026-02-27,Other,2800.058390046256,Debit Card,Pharmacy & Daily Needs
+2026-02-25,Bills,501.59361304758136,Debit Card,Netflix & Media Subscription
+2026-02-23,Shopping,3500.067961569713,Credit Card,Apparel & Lifestyle
+2026-02-20,Transport,2800.058390046256,UPI,Fuel & Auto Taxi
+2026-02-18,Dining,5040.101081292775,Credit Card,Family Dinner Restaurant
+2026-02-15,Bills,2110.9150048094607,Bank Transfer,Electricity & Utility Bill
+2026-02-12,Bills,1206.237145605406,Bank Transfer,Airtel Broadband Internet
+2026-02-10,Transport,2800.058390046256,Debit Card,Metro & Bus Commute
+2026-02-08,Shopping,3500.067961569713,Credit Card,Amazon Online Order
+2026-02-07,Other,4200.07753309317,Credit Card,Supermarket Groceries
+2026-02-05,Dining,3360.064036869779,UPI,Swiggy Food Delivery
+2026-02-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2026-01-27,Other,2711.0472102814447,Debit Card,Pharmacy & Daily Needs
+2026-01-25,Bills,500.9452097856861,Debit Card,Netflix & Media Subscription
+2026-01-23,Shopping,3388.819051833966,Credit Card,Apparel & Lifestyle
+2026-01-20,Transport,2711.0472102814447,UPI,Fuel & Auto Taxi
+2026-01-18,Dining,4879.888994099464,Credit Card,Family Dinner Restaurant
+2026-01-15,Bills,2108.186253607096,Bank Transfer,Electricity & Utility Bill
+2026-01-12,Bills,1204.6778592040548,Bank Transfer,Airtel Broadband Internet
+2026-01-10,Transport,2711.0472102814447,Debit Card,Metro & Bus Commute
+2026-01-08,Shopping,3388.819051833966,Credit Card,Amazon Online Order
+2026-01-07,Other,4066.580854404327,Credit Card,Supermarket Groceries
+2026-01-05,Dining,3253.26267572703,UPI,Swiggy Food Delivery
+2026-01-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2025-12-27,Other,2622.277137328345,Debit Card,Pharmacy & Daily Needs
+2025-12-25,Bills,500.2968065237907,Debit Card,Netflix & Media Subscription
+2025-12-23,Shopping,3277.8363956723247,Credit Card,Apparel & Lifestyle
+2025-12-20,Transport,2622.277137328345,UPI,Fuel & Auto Taxi
+2025-12-18,Dining,4720.084810807672,Credit Card,Family Dinner Restaurant
+2025-12-15,Bills,2105.4575024047303,Bank Transfer,Electricity & Utility Bill
+2025-12-12,Bills,1203.118572802703,Bank Transfer,Airtel Broadband Internet
+2025-12-10,Transport,2622.277137328345,Debit Card,Metro & Bus Commute
+2025-12-08,Shopping,3277.8363956723247,Credit Card,Amazon Online Order
+2025-12-07,Other,3933.4056800044095,Credit Card,Supermarket Groceries
+2025-12-05,Dining,3146.7265492011497,UPI,Swiggy Food Delivery
+2025-12-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2025-11-27,Other,2533.7180542404767,Debit Card,Pharmacy & Daily Needs
+2025-11-25,Bills,499.6484032618954,Debit Card,Netflix & Media Subscription
+2025-11-23,Shopping,3167.140058055056,Credit Card,Apparel & Lifestyle
+2025-11-20,Transport,2533.7180542404767,UPI,Fuel & Auto Taxi
+2025-11-18,Dining,4560.678479441184,Credit Card,Family Dinner Restaurant
+2025-11-15,Bills,2102.7287512023654,Bank Transfer,Electricity & Utility Bill
+2025-11-12,Bills,1201.5592864013518,Bank Transfer,Airtel Broadband Internet
+2025-11-10,Transport,2533.7180542404767,Debit Card,Metro & Bus Commute
+2025-11-08,Shopping,3167.140058055056,Credit Card,Amazon Online Order
+2025-11-07,Other,3800.5720748636886,Credit Card,Supermarket Groceries
+2025-11-05,Dining,3040.4556572921406,UPI,Swiggy Food Delivery
+2025-11-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent
+2025-10-27,Other,1200.0,Debit Card,Pharmacy & Daily Needs
+2025-10-25,Bills,499.0,Debit Card,Netflix & Media Subscription
+2025-10-22,Shopping,38500.0,Credit Card,High-end Work Laptop & Monitor
+2025-10-20,Transport,1250.0,UPI,Fuel & Auto Taxi
+2025-10-18,Dining,2100.0,Credit Card,Family Dinner Restaurant
+2025-10-15,Bills,2100.0,Bank Transfer,Electricity & Utility Bill
+2025-10-12,Bills,1200.0,Bank Transfer,Airtel Broadband Internet
+2025-10-10,Transport,1250.0,Debit Card,Metro & Bus Commute
+2025-10-07,Other,1800.0,Credit Card,Supermarket Groceries
+2025-10-05,Dining,1400.0,UPI,Swiggy Food Delivery
+2025-10-02,Rent,12000.0,Bank Transfer,Apartment Monthly Rent

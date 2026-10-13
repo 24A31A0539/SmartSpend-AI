@@ -1,0 +1,46 @@
+{
+  "janaganika": {
+    "name": "Jalaganika",
+    "email": "jalaganika@smartspend.ai",
+    "password": "password123",
+    "monthly_income": 75000.0,
+    "monthly_budget": 50000.0,
+    "preferred_currency": "₹",
+    "member_since": "September 2025",
+    "account_status": "Active"
+  },
+  "jala": {
+    "name": "Jala",
+    "email": "yarramsettijalaganika@gmail.com",
+    "password": "Jala@2007",
+    "monthly_income": 100000.0,
+    "monthly_budget": 55000.0,
+    "preferred_currency": "₹",
+    "member_since": "September 2026",
+    "account_status": "Active"
+  },
+  "jalag": {
+    "username": "jalag",
+    "name": "Jala",
+    "email": "yarramsettijalaganika@gmail.com",
+    "password": "Jala@2007",
+    "monthly_income": 100000.0,
+    "monthly_budget": 55000.0,
+    "preferred_currency": "₹",
+    "member_since": "September 2026",
+    "account_status": "Active",
+    "onboarding_complete": true
+  },
+  "jala07": {
+    "username": "jala07",
+    "name": "Jalaganika",
+    "email": "yarramsettijalaganika@gmail.com",
+    "password": "Jala@2007",
+    "monthly_income": 100000.0,
+    "monthly_budget": 55000.0,
+    "preferred_currency": "₹",
+    "member_since": "October 2026",
+    "account_status": "Active",
+    "onboarding_complete": true
+  }
+}

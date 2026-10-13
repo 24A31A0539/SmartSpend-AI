@@ -1,0 +1,33 @@
+Date,Category,Amount,Payment Method,Description,Transaction Type,id
+2026-10-01,Salary,100000.0,Bank Transfer,Monthly Salary Credit,Income,0e18e7e1
+2026-10-02,Rent,25000.0,Bank Transfer,Apartment Monthly Rent,Expense,af720c07
+2026-10-03,Bills,1850.0,UPI,Airtel Broadband & Utilities,Expense,c64af588
+2026-10-04,Groceries,4800.0,Credit Card,Nature Basket Weekly Groceries,Expense,c44e3933
+2026-10-05,Dining,2450.0,UPI,Olive Bistro Weekend Dinner,Expense,194c1a41
+2026-10-06,Transport,1650.0,UPI,Fuel Refill IndianOil,Expense,0cc5696c
+2026-10-07,Shopping,3600.0,Credit Card,Zara Lifestyle Apparel,Expense,5cbfb3b3
+2026-10-08,Health,1200.0,UPI,Apollo Pharmacy Wellness,Expense,f69dd085
+2026-09-01,Salary,100000.0,Bank Transfer,Monthly Salary Credit,Income,4d6ec397
+2026-09-02,Rent,25000.0,Bank Transfer,Apartment Monthly Rent,Expense,4cb3384c
+2026-09-05,Groceries,5200.0,Credit Card,Organic Supermarket Groceries,Expense,0b970346
+2026-09-08,Dining,3100.0,UPI,Team Lunch & Cafe,Expense,39d3b08f
+2026-09-12,Shopping,4500.0,Credit Card,Amazon Electronics & Books,Expense,09d8f10c
+2026-09-15,Bills,1900.0,UPI,Electricity & Water Utility,Expense,6588318a
+2026-09-18,Transport,1800.0,UPI,Uber Tech Park Commute,Expense,e123b28d
+2026-09-22,Entertainment,1200.0,Debit Card,PVR IMAX Movie Tickets,Expense,4822842e
+2026-09-25,Dining,1500.0,UPI,Weekend Cafe Brunch,Expense,2015a4af
+2026-08-01,Salary,100000.0,Bank Transfer,Monthly Salary Credit,Income,7b19bbe8
+2026-08-02,Rent,25000.0,Bank Transfer,Apartment Monthly Rent,Expense,8702125f
+2026-08-06,Groceries,4600.0,Credit Card,Supermarket Supplies,Expense,55df935f
+2026-08-10,Dining,2800.0,UPI,Family Dinner,Expense,a7d03299
+2026-08-14,Bills,1850.0,UPI,Broadband & Mobile Postpaid,Expense,96cbc1f2
+2026-08-18,Shopping,5200.0,Credit Card,Myntra Fashion Shopping,Expense,3c54a5cb
+2026-08-22,Transport,1600.0,UPI,Fuel Refill HPCL,Expense,27c30528
+2026-08-26,Other,800.0,Cash,Household Sundries,Expense,1e9ad455
+2026-07-01,Salary,100000.0,Bank Transfer,Monthly Salary Credit,Income,d1fe6a6d
+2026-07-02,Rent,25000.0,Bank Transfer,Apartment Monthly Rent,Expense,05d6d5e4
+2026-07-07,Groceries,4400.0,Credit Card,Fresh Mart Groceries,Expense,320357d8
+2026-07-12,Dining,2600.0,UPI,Italian Trattoria Dinner,Expense,65e50c82
+2026-07-16,Bills,1800.0,UPI,Broadband Internet,Expense,5b2c8f99
+2026-07-20,Shopping,3900.0,Credit Card,Footwear & Accessories,Expense,2385af4d
+2026-07-24,Transport,1500.0,UPI,Fuel Refill,Expense,85e5bcd0

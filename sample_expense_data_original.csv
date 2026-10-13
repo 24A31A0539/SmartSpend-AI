@@ -1,0 +1,90 @@
+Date,Category,Amount,Payment Method,Description
+2023-01-05,Groceries,120.50,Credit Card,Weekly groceries at Whole Foods
+2023-01-08,Transportation,45.00,Debit Card,Gas station
+2023-01-12,Dining,85.20,Credit Card,Dinner with friends
+2023-01-15,Utilities,150.00,Bank Transfer,Electricity bill
+2023-01-18,Entertainment,30.00,Debit Card,Movie tickets
+2023-01-22,Groceries,90.10,Credit Card,Trader Joe's
+2023-01-25,Shopping,210.00,Credit Card,New shoes
+2023-01-28,Health,60.00,Debit Card,Pharmacy
+2023-02-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-02-05,Groceries,115.00,Credit Card,Weekly groceries
+2023-02-10,Transportation,50.00,Debit Card,Train pass
+2023-02-14,Dining,120.00,Credit Card,Valentine's dinner
+2023-02-18,Utilities,145.00,Bank Transfer,Water and Trash
+2023-02-22,Entertainment,45.00,Credit Card,Concert ticket
+2023-02-26,Groceries,85.50,Credit Card,Farmers market
+2023-03-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-03-06,Groceries,130.20,Credit Card,Costco run
+2023-03-10,Transportation,40.00,Debit Card,Gas station
+2023-03-15,Dining,65.00,Credit Card,Lunch out
+2023-03-18,Utilities,160.00,Bank Transfer,Internet and Electricity
+2023-03-22,Shopping,350.00,Credit Card,New jacket and jeans
+2023-03-25,Health,120.00,Credit Card,Dentist appointment
+2023-03-28,Groceries,75.00,Debit Card,Quick groceries
+2023-04-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-04-05,Groceries,140.00,Credit Card,Weekly groceries
+2023-04-08,Transportation,55.00,Debit Card,Gas station
+2023-04-12,Dining,95.00,Credit Card,Dinner
+2023-04-16,Utilities,135.00,Bank Transfer,Electricity
+2023-04-20,Entertainment,80.00,Credit Card,Theme park
+2023-04-24,Groceries,105.00,Credit Card,Groceries
+2023-04-28,Shopping,150.00,Debit Card,Gifts
+2023-05-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-05-06,Groceries,125.00,Credit Card,Weekly groceries
+2023-05-10,Transportation,60.00,Debit Card,Gas station
+2023-05-15,Dining,110.00,Credit Card,Special dinner
+2023-05-18,Utilities,140.00,Bank Transfer,Internet and Electricity
+2023-05-22,Entertainment,40.00,Debit Card,Movies
+2023-05-26,Groceries,95.00,Credit Card,Trader Joe's
+2023-06-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-06-05,Groceries,135.00,Credit Card,Weekly groceries
+2023-06-10,Transportation,45.00,Debit Card,Gas
+2023-06-14,Dining,75.00,Credit Card,Lunch with coworkers
+2023-06-18,Utilities,155.00,Bank Transfer,Electricity
+2023-06-22,Shopping,220.00,Credit Card,Summer clothes
+2023-06-26,Groceries,110.00,Credit Card,Groceries
+2023-06-29,Travel,850.00,Credit Card,Flight booking
+2023-07-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-07-06,Groceries,145.00,Credit Card,Groceries
+2023-07-10,Transportation,50.00,Debit Card,Gas
+2023-07-15,Travel,450.00,Credit Card,Hotel stay
+2023-07-18,Dining,160.00,Credit Card,Vacation dining
+2023-07-22,Entertainment,120.00,Credit Card,Excursion
+2023-07-26,Groceries,80.00,Debit Card,Quick groceries
+2023-08-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-08-05,Groceries,130.00,Credit Card,Weekly groceries
+2023-08-10,Transportation,65.00,Debit Card,Gas
+2023-08-15,Dining,90.00,Credit Card,Dinner
+2023-08-18,Utilities,170.00,Bank Transfer,AC usage
+2023-08-22,Shopping,110.00,Credit Card,Books and supplies
+2023-08-26,Groceries,100.00,Credit Card,Groceries
+2023-09-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-09-06,Groceries,125.00,Credit Card,Groceries
+2023-09-10,Transportation,55.00,Debit Card,Gas
+2023-09-14,Dining,85.00,Credit Card,Lunch
+2023-09-18,Utilities,145.00,Bank Transfer,Electricity
+2023-09-22,Entertainment,50.00,Debit Card,Subscription renewal
+2023-09-26,Groceries,115.00,Credit Card,Groceries
+2023-09-28,Health,300.00,Credit Card,Annual checkup
+2023-10-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-10-06,Groceries,140.00,Credit Card,Groceries
+2023-10-10,Transportation,50.00,Debit Card,Gas
+2023-10-15,Dining,100.00,Credit Card,Dinner
+2023-10-18,Utilities,135.00,Bank Transfer,Electricity
+2023-10-22,Shopping,180.00,Credit Card,Fall clothes
+2023-10-26,Groceries,95.00,Debit Card,Groceries
+2023-11-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-11-06,Groceries,155.00,Credit Card,Thanksgiving prep
+2023-11-10,Transportation,60.00,Debit Card,Gas
+2023-11-15,Dining,110.00,Credit Card,Dinner
+2023-11-18,Utilities,160.00,Bank Transfer,Heating
+2023-11-22,Shopping,450.00,Credit Card,Black Friday electronics
+2023-11-26,Groceries,105.00,Credit Card,Groceries
+2023-12-02,Rent,1200.00,Bank Transfer,Monthly rent
+2023-12-06,Groceries,165.00,Credit Card,Holiday groceries
+2023-12-10,Transportation,55.00,Debit Card,Gas
+2023-12-15,Dining,130.00,Credit Card,Holiday dinner
+2023-12-18,Utilities,175.00,Bank Transfer,Heating
+2023-12-22,Shopping,550.00,Credit Card,Christmas gifts
+2023-12-28,Groceries,90.00,Debit Card,Groceries

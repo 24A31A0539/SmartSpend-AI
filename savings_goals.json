@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "New Laptop",
+    "target_amount": 60000.0,
+    "current_amount": 25000.0,
+    "target_date": "March 2027",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Emergency Fund",
+    "target_amount": 150000.0,
+    "current_amount": 90000.0,
+    "target_date": "December 2027",
+    "category": "Savings"
+  },
+  {
+    "id": 3,
+    "name": "New Laptop",
+    "target_amount": 60000.0,
+    "current_amount": 0.0,
+    "target_date": "March 2027",
+    "category": "Electronics"
+  }
+]
